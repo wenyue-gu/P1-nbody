@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c1fc2d3-8c81-4262-a204-8b03418f99b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/NBody-fall19/CelestialBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NBody-fall19/CelestialBody.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/NBody-fall19/NBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NBody-fall19/NBody.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NBody-fall19/StdAudio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NBody-fall19/StdAudio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NBody-fall19/StdDraw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NBody-fall19/StdDraw.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CelestialBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelestialBody.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NBody.java" afterDir="false" />
     </list>
@@ -40,7 +37,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestReadBodies">
+  <component name="RunManager" selected="Application.NBody">
+    <configuration name="NBody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NBody" />
+      <module name="NBody-fall19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestBodyConstructorGetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestBodyConstructorGetters" />
       <module name="NBody-fall19" />
@@ -76,13 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestReadBodies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestReadBodies" />
-      <module name="NBody-fall19" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestReadRadius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestReadRadius" />
       <module name="NBody-fall19" />
@@ -104,12 +101,12 @@
       <item itemvalue="Application.TestCalcForceExertedBy" />
       <item itemvalue="Application.TestCalcDistance" />
       <item itemvalue="Application.TestBodyConstructorGetters" />
-      <item itemvalue="Application.TestReadBodies" />
+      <item itemvalue="Application.NBody" />
       <item itemvalue="Application.TestReadRadius" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestReadBodies" />
+        <item itemvalue="Application.NBody" />
         <item itemvalue="Application.TestReadRadius" />
         <item itemvalue="Application.TestBodyConstructorGetters" />
       </list>

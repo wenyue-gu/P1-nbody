@@ -151,5 +151,6 @@ public class CelestialBody {
 
 	public void draw() {
 		// TODO: complete method
+		StdDraw.picture(myXPos,myYPos,"images/"+myFileName);
 	}
 }
