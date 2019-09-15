@@ -1,6 +1,6 @@
 This is analysis.txt
-Replace this line with your name
-Replace this line with your netid
+Wenyue Gu
+wg74R
 
 Copy/paste the output of your simulation when using planets.txt,
 running the simulation for 1,000,000 (one  million) seconds, and
@@ -37,8 +37,8 @@ when approximating forces. Write down below what you see during
 this simulation.
 
 (replace with observed behavior)
-planets orbit with an extremely fast speed
-Two of the planets got lost???
+planets orbit at an extremely fast speed
+Two of the planets got lost??? They flew out of the orbit and disappeared out the window
 
 Run the simulation with the original time and dt values which are
 
