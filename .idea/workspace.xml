@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c1fc2d3-8c81-4262-a204-8b03418f99b4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/analysis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/analysis.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NBody-fall19/NBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NBody-fall19/NBody.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelestialBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelestialBody.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
